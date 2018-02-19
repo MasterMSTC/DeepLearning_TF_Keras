@@ -1,6 +1,4 @@
 
-https://colab.research.google.com/drive/1PRdEO40hpN946buDE0_i7WRN4akIBs2Y
-
 # DeepLearning, TensorFlow & Keras
 - ### Materials Slides & Notebooks ###
 
