@@ -1,6 +1,8 @@
 
 # DeepLearning, TensorFlow & Keras
 
+https://colab.research.google.com/drive/12U0zNdPj4SRwafk8ItfHlawUsBODkQny
+
 - ### Materials Slides & Notebooks ###
 
 ## A BASIC PRACTICAL INTRODUCTION TO DEEP LEARNING, TENSORFLOW & KERAS
