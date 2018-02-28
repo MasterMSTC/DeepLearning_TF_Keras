@@ -1,20 +1,8 @@
 
 # DeepLearning, TensorFlow & Keras
 
+
 https://colab.research.google.com/drive/12U0zNdPj4SRwafk8ItfHlawUsBODkQny
-
-# Let's look at a subplot of one of A in each font
-
-f, plts = plt.subplots(5, figsize=(4,14), sharex=True)
-
-c = 20
-
-for i in range(5):
-
-    plts[i].pcolor(train[c + i * 558],
-    
-                   cmap=plt.cm.gray)
-
 
 
 - ### Materials Slides & Notebooks ###
