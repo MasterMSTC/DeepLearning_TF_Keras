@@ -11,8 +11,6 @@ https://colab.research.google.com/drive/12U0zNdPj4SRwafk8ItfHlawUsBODkQny
 
 This 3-day Seminar will provide you a very basic PRACTICAL introduction to Deep Learning TensorFlow and Keras
 
-https://www.eventbrite.es/e/entradas-deep-learning-tensorflow-keras-3-day-seminar-2018-edition-43019307908
-
 
 
 - #### Wednesday 21st February 2018 (17:00 - 20:00) <br>
