@@ -1,12 +1,6 @@
 
 # DeepLearning, TensorFlow & Keras
 
-https://drive.google.com/open?id=1VLgB0CK8DjMJ4gstLRC0gA2pVGXy-RYa
-
-
-
-https://drive.google.com/file/d/1fbpDd3VffpLIs6PWjZnUoxBef4-oZHtk/view?usp=sharing
-
 
 - ### Materials Slides & Notebooks ###
 
