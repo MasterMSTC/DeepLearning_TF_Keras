@@ -1,29 +1,8 @@
 
-# DeepLearning, TensorFlow & Keras
+# Introduction to DeepLearning using TensorFlow & Keras
 
 
-- ### Materials Slides & Notebooks ###
-
-## A BASIC PRACTICAL INTRODUCTION TO DEEP LEARNING, TENSORFLOW & KERAS
-
-This 3-day Seminar will provide you a very basic PRACTICAL introduction to Deep Learning TensorFlow and Keras
-
-
-
-- #### Wednesday 21st February 2018 (17:00 - 20:00) <br>
-Basic Introduction to Deep Learning and TensorFlow
-
-
-- #### Wednesday 7th March 2018 (17:00 - 20:00)<br>
-Basic Deep Learning Architectures in TensorFlow and Keras
-
-- #### Wednesday 21st March 2018 (17:00 - 20:00)<br>
-Intro to Recurrent Neural Networks using TensorFlow and Keras
-
-## Where:<br>
-ETSI Telecomunicación<br>
-UNIVERSIDAD POLITÉCNICA DE MADRID<br>
-Avda. Complutense 30<br>
+- ### Materials: Slides & Notebooks ###
 
 
 ## MSTC Master Programme Information
@@ -31,3 +10,12 @@ Avda. Complutense 30<br>
 
 http://mstc.ssr.upm.es/big-data-track
 
+## MUIT Máster Universitario en Ingeniería de Telecomunicación
+### MACHINE LEARNING AND MULTIMEDIA DATA SCIENCE
+
+http://www.etsit.upm.es/estudios/master-universitario-en-ingenieria-de-telecomunicacion/plan-de-estudios/asignaturas.html
+
+## Where:<br>
+ETSI Telecomunicación<br>
+UNIVERSIDAD POLITÉCNICA DE MADRID<br>
+Avda. Complutense 30<br>
