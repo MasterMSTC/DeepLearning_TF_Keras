@@ -2,6 +2,8 @@
 # Introduction to DeepLearning using TensorFlow & Keras
 
 
+# https://drive.google.com/file/d/1gG28cQhExODgEuwkFT3XBUUHO6eoebUB/view?usp=sharing
+
 - ### Materials: Slides & Notebooks ###
 
 -------------------------------------------------------------------------------------------------------------------
